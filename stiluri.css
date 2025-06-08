@@ -1,0 +1,92 @@
+.CAP{/*titlu capitol*/
+	text-align:center;
+	font-size:25px;
+	font-family:Arial;
+	font-weight:bold;
+	margin-top:20px;
+	font-style:italic;
+}
+.SUB{/*titlu subcapitol*/
+	text-align:left;
+	font-size:20px;
+	font-family:Arial;
+	font-weight:bold;
+	margin-top:20px;
+	margin-left:25px;
+}
+.A{/*paragraf*/
+    font-family:Arial;
+	margin-left:4%;
+	margin-right:2%;
+	padding:1px;
+	font-size:19px;
+	text-indent:2%;
+}
+.a{/*subparagraf*/
+    font-family:Arial;
+	list-style-type:none;
+	margin-left:7%;
+	font-size:19px;
+	text-indent:3px;
+}
+.buton{
+	background-color:black;
+    border:none;
+    color:white;
+    text-align:center;
+    text-decoration:none;
+    font-size:16px;
+	font-weight:bold;
+	padding:7px;
+	
+}
+.buton:hover{
+	background-color:#5B9537;
+}
+.TOTAL{
+	background-color:black;
+	color:white;
+	font-family:Arial;
+	font-weight:bold;
+	font-size:30px;
+	text-align:center;
+	padding:7px;
+	margin-left:7%;
+	margin-right:80%;
+}
+.verificare{
+	font-family:Arial;
+	margin-left:4%;
+	margin-right:2%;
+	padding:1px;
+	font-size:19px;
+	text-indent:2%;
+	font-family:Arial;
+	font-weight:bold;
+}
+.corect{
+	font-family:Arial;
+	list-style-type:none;
+	margin-left:20%;
+	font-size:19px;
+	text-indent:3px;
+	font-weight:bold;
+	font-style:italic;
+}
+.buton_reia{
+	background-color:black;
+    border:none;
+    color:white;
+    text-align:center;
+    text-decoration:none;
+    font-size:16px;
+	font-weight:bold;
+	padding:7px;
+	text-decoration:none;
+}
+
+
+
+
+
+
